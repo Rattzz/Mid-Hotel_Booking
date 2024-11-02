@@ -1,2 +1,1 @@
-# Mid-Hotel_Booking
-This is my hotel booking website while i did in my Internship with the help of videos.
+I did this project in my Internship for this reason the whole project is not mine, I did it by watching examples on YouTube
